@@ -50,6 +50,8 @@ h6 {
 
 .textFooter{
 
+}
+
 .img3{
     width: 50px;
     height: 50px;
@@ -63,6 +65,8 @@ h6 {
 
 .pImg{
     width: 250px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: grey;
 }
 
 .img2{
