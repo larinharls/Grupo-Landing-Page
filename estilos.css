@@ -7,7 +7,7 @@ body{
     padding: 10px;
     justify-content: center;
 }
-p {
+.frase {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #3f3f46;
     justify-content: center;
