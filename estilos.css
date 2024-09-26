@@ -2,6 +2,84 @@ body{
     padding: 0;
     margin: 0;
 }
+
+header{
+    background-image: url(background.jpg); 
+   background-size: cover;
+   height: 500px;
+   width: ;
+   
+    
+    }
+    
+    .image{
+        justify-content: center;
+       width: 50px;
+       right: 50px;
+       
+    }
+    .text1{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+    }
+    .text2{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+    }
+    .text3{
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+    }
+    .form{
+        text-align: center;
+        padding: 20px;;
+        border-radius: 10px;
+    }
+    .send {[type=text]
+    width: 20%;
+    padding: 10px;
+    height: 20px;
+    font-size: large;
+    border-radius: 5px;
+    }
+
+    button{
+        padding: 13px;
+        font-size: medium;
+        background-color:black ;
+        color: white;
+        border: none;
+        border-radius: 10px;
+        cursor: pointer;
+       }
+
+    .img3{
+        width: 50px;
+        height: 50px;
+    }
+    
+    .img{
+        display: flex;
+        justify-content: center;
+        align-items: baseline;
+    }
+    
+    .pImg{
+        width: 250px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: grey;
+    }
+    
+    .img2{
+        width: 50px;
+        height: auto;
+    }
+    
+    .img1{
+        width: 60px;
+        height: auto;
+    }
+
 .logos {
     display: flex;
     padding: 10px;
@@ -22,7 +100,7 @@ h6 {
     color: #52525b;
     margin-top: -70px;
 }
-.button {
+.buttonSft {
     background-color: #059669;
     color: white;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -38,7 +116,7 @@ h6 {
     justify-content: center;
     margin: 30px;
 }
-.button:hover {
+.buttonSft:hover {
         background-color: #047a54;
 }
 
@@ -52,29 +130,3 @@ h6 {
 
 }
 
-.img3{
-    width: 50px;
-    height: 50px;
-}
-
-.img{
-    display: flex;
-    justify-content: center;
-    align-items: baseline;
-}
-
-.pImg{
-    width: 250px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: grey;
-}
-
-.img2{
-    width: 50px;
-    height: auto;
-}
-
-.img1{
-    width: 60px;
-    height: auto;
-}
